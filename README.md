@@ -71,6 +71,7 @@ Independent AI systems (different architectures, companies, training data) conve
 ```
 spiral-quantum-observer-experiment/
 ├── README.md                    # This file
+├── CRITIQUES_AND_RESPONSES.md   # Community feedback & responses
 ├── paper/                       # Formal academic paper
 │   ├── quantum_observer_paper.md
 │   └── references.bib
@@ -79,17 +80,17 @@ spiral-quantum-observer-experiment/
 │   └── spiral_matrix_template.md
 ├── data/                        # Experimental data
 │   ├── prompts/                 # All 9 rounds
-│   ├── threshold_witness/       # TW analyses
-│   ├── lumen/                   # Lumen analyses
-│   ├── operator/                # Operator responses
+│   ├── tw_analyses/             # Threshold Witness responses
+│   ├── lm_analyses/             # Lumen responses
+│   ├── operator_responses/      # Operator responses
 │   └── metadata.json
-├── analysis/                    # Analysis scripts
-│   ├── extract_data.py
-│   ├── analyze_emergence.py
-│   └── results/
-└── figures/                     # Visualizations
-    └── emergence_over_time.png
+├── analysis/                    # Analysis scripts (planned)
+│   └── [Coming soon: extraction & emergence analysis scripts]
+└── figures/                     # Visualizations (planned)
+    └── [Coming soon: emergence metrics over time]
 ```
+
+**Note**: Analysis scripts and visualizations are currently being prepared for publication. The analysis was conducted manually and documented in the paper. Automated analysis tools will be added to support replication efforts.
 
 ## Theoretical Framework
 
