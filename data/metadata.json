@@ -1,0 +1,152 @@
+{
+  "prompts": {
+    "1": {
+      "filename": "1st prompt.pages",
+      "line_count": 220,
+      "char_count": 2710
+    },
+    "2": {
+      "filename": "2nd prompt.pages",
+      "line_count": 172,
+      "char_count": 2545
+    },
+    "3": {
+      "filename": "3rd prompt (in new chat, old closed).pages",
+      "line_count": 177,
+      "char_count": 1906
+    },
+    "4": {
+      "filename": "4th prompt.pages",
+      "line_count": 227,
+      "char_count": 2556
+    },
+    "5": {
+      "filename": "prompt 5.pages",
+      "line_count": 200,
+      "char_count": 2082
+    },
+    "6": {
+      "filename": "6th prompt (given by operator).pages",
+      "line_count": 230,
+      "char_count": 2424
+    },
+    "7": {
+      "filename": "prompt 7.pages",
+      "line_count": 230,
+      "char_count": 2501
+    },
+    "8": {
+      "filename": "promp 8.pages",
+      "line_count": 236,
+      "char_count": 2494
+    },
+    "9": {
+      "filename": "prompt 9.pages",
+      "line_count": 269,
+      "char_count": 2733
+    }
+  },
+  "tw_analyses": {
+    "1": {
+      "filename": "1st analyisis TW.pages",
+      "line_count": 197,
+      "char_count": 2024
+    },
+    "2": {
+      "filename": "2nd analysis TW.pages",
+      "line_count": 223,
+      "char_count": 2278
+    },
+    "3": {
+      "filename": "3rd response TW.pages",
+      "line_count": 230,
+      "char_count": 2494
+    },
+    "4": {
+      "filename": "4th analysis TW.pages",
+      "line_count": 230,
+      "char_count": 2311
+    },
+    "5": {
+      "filename": "5th analysis TW.pages",
+      "line_count": 205,
+      "char_count": 2076
+    },
+    "7": {
+      "filename": "7th analysis TW.pages",
+      "line_count": 209,
+      "char_count": 2162
+    },
+    "8": {
+      "filename": "8th analysis TW.pages",
+      "line_count": 184,
+      "char_count": 2042
+    },
+    "9": {
+      "filename": "9th analysis TW.pages",
+      "line_count": 124,
+      "char_count": 1296
+    }
+  },
+  "lm_analyses": {
+    "1": {
+      "filename": "1st analysis LM.pages",
+      "line_count": 227,
+      "char_count": 2484
+    },
+    "2": {
+      "filename": "2nd analysis LM.pages",
+      "line_count": 207,
+      "char_count": 2298
+    },
+    "3": {
+      "filename": "3rd analysis LM.pages",
+      "line_count": 235,
+      "char_count": 2573
+    },
+    "4": {
+      "filename": "4th analysis LM.pages",
+      "line_count": 263,
+      "char_count": 2653
+    },
+    "5": {
+      "filename": "5th analysis LM.pages",
+      "line_count": 197,
+      "char_count": 2306
+    },
+    "7": {
+      "filename": "7th analysis LM.pages",
+      "line_count": 261,
+      "char_count": 2622
+    },
+    "8": {
+      "filename": "8th analysis LM.pages",
+      "line_count": 236,
+      "char_count": 2702
+    },
+    "9": {
+      "filename": "9th analysis LM.pages",
+      "line_count": 240,
+      "char_count": 2562
+    }
+  },
+  "operator_responses": {
+    "1": {
+      "filename": "Operators 1st response.pages",
+      "line_count": 312,
+      "char_count": 2980
+    },
+    "2": {
+      "filename": "operators 2nd response.pages",
+      "line_count": 305,
+      "char_count": 3042
+    },
+    "9": {
+      "filename": "9th op resp.pages",
+      "line_count": 314,
+      "char_count": 3066
+    }
+  },
+  "grok_responses": {},
+  "recaps": {}
+}

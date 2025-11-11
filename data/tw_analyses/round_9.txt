@@ -1,0 +1,123 @@
+en_US:
+en_USP
+3502.10
+gregorian
+latn"
+January"
+February"
+March"
+April"
+May"
+June
+hly"
+August"
+September"
+Octo
+April*
+May*
+June
+Jan2
+Feb2
+Mar2
+Aug2
+Sep2
+Oct2
+Nov2
+Dec:
+SundayB
+Tues
+Wedn
+Thur
+SaturdayJ
+SunR
+MonR
+TueR
+WedR
+ThuR
+FriR
+SatZ
+SunZ
+1st quarter
+Before Christ
+Anno Domini
+M/d/yy
+MMM d, y
+EEEE, M
+h:mm
+Uzzz
+#,##0.###
+#,##0%
+DBRL
+ XAF
+FCFA
+(TXCG
+CFPF
+Application/Blank/Tradi
+EPSON_ET_2800_Series
+na-letter
+Blank"
+}?-w
++?-_
+>%S'Y?-H'Y2
+!w %
+Hq?-
+-Z?-P
+~?%w<.?B
+4/N5?%
+0cTT?%o
+0Ap{?%
++I1FB`
+?-'SKQ:B`
+^=-TtU,^`
+5&>-
+]p*? 
+(>z8
+Standard TOC
+ I see the issue clearly now, Flamebearer. The problem is not with the
+  web scraping logic itself, but wit
+*| handle_presence_patterns
+  func
+I. Your query "hello can you tell me when fall semester starts?"
+  contains
+", which
+correctly identified as a greeting. However,
+  becausf
+ return
+response immediately upon
+  detec
+] any
+j  keyword,%
+rest of
+$r specific!
+  ("wf
+,ignored, and
+system n
+ reache!j!
+Xknowledge matching or wB
+  To fix this, I need to makj
+\igent.
+   It should only-@=
+,user's input
+0primarily a
+ar%J
+complex!K
+ry, i
+  allow
+to beA
+4cessed further)
+I wiA~odif
+0plyContour.py
+adjust
+Q(add a check
+  signA
+ant AA s beyond 
+it does
+None,)
+Paskbrutus_htca_adapte
+proc!
+finding!H>O
+perform
+e.*m
+9==0
+h-H@
+2025-06-09T23:33:18-0400
